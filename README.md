@@ -1,0 +1,1 @@
+# Find-the-sum-of-the-series-2-22-222-2222-..-n-terms
